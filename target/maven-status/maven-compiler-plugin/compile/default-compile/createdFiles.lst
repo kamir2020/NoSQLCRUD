@@ -1,0 +1,4 @@
+com/example/crud/controller/StudentController.class
+com/example/crud/model/Student.class
+com/example/crud/repository/StudentRepository.class
+com/example/crud/CrudApplication.class
